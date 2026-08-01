@@ -1,5 +1,6 @@
 # leet_code
 starting leet code and exploring coding....
+
 Easy/
     Two Sum.c
     Contains Duplicate.c
